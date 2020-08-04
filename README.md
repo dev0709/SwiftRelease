@@ -6,4 +6,3 @@ Photographer, Model and Witness can make release document and sign.
 And it can merge several pdf(release) files.
 
 language : Objective C
-Xcode 7.1 for iOS 9.1
